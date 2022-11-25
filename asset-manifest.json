@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Travelreact/static/css/main.7cb5d824.css",
+    "main.js": "/Travelreact/static/js/main.67af9e4a.js",
+    "static/js/787.8a220983.chunk.js": "/Travelreact/static/js/787.8a220983.chunk.js",
+    "static/media/logo.svg": "/Travelreact/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Travelreact/index.html",
+    "main.7cb5d824.css.map": "/Travelreact/static/css/main.7cb5d824.css.map",
+    "main.67af9e4a.js.map": "/Travelreact/static/js/main.67af9e4a.js.map",
+    "787.8a220983.chunk.js.map": "/Travelreact/static/js/787.8a220983.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7cb5d824.css",
+    "static/js/main.67af9e4a.js"
+  ]
+}
